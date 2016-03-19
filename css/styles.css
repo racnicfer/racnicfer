@@ -292,7 +292,6 @@ background-image: url(/img/light_grey_floral_motif.png);
 }
 
 @media screen and (max-width: 48em) {
-        html {background: green;}
     .name {
         font-size: 2em;
     }
